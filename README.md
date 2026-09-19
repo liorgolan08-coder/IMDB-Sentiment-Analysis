@@ -27,8 +27,7 @@
 ניתן להוריד את ה-Dataset דרך Kaggle בקישור הבא:
 
 **Kaggle:**  
-[להדביק כאן את הקישור ל-Kaggle]
-
+[[https://www.kaggle.com/datasets/yasserh/imdb-movie-ratings-sentiment-analysis]
 לאחר הורדת הקובץ יש למקם את `movie.csv` באותה תיקייה שבה נמצאת מחברת ה-Jupyter Notebook.
 
 ---
@@ -73,7 +72,7 @@
 
 ## קבצים ב-Repository
 
-### `IMDB_Sentiment_Assignment_final_explanations.ipynb`
+### `IMDB_Sentiment_Assignment_final.ipynb`
 
 מחברת Jupyter Notebook הכוללת את המימוש המלא של העבודה, ההסברים, הקוד, תוצאות ההרצה והערכת ביצועי המודל.
 
@@ -88,7 +87,7 @@
 סרטון הצגת העבודה זמין לצפייה בקישור הבא:
 
 **YouTube:**  
-[להדביק כאן את הקישור לסרטון]
+[https://youtu.be/eeT5X4HZCns]
 
 ---
 
